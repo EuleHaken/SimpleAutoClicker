@@ -2,6 +2,8 @@
 
 #include <QApplication>
 
+using namespace EuleHaken;
+
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
